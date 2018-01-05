@@ -14,7 +14,8 @@ public class Hello
 	{
 
 		
-		
+		long kilo[1] = {12};
+		long hecto[1] = {7};
 		
 		long metre = 1;
 		long yard = 1;
@@ -26,7 +27,7 @@ public class Hello
 		addition (metre,yard);
 		System.out.println("metre ="+metre+", yard ="+yard);
 		
-		
+	System.out.println("Kilo ="+kilo[0]+", Hecto ="+hecto[0]);
 
 	}
 
