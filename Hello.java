@@ -5,6 +5,11 @@ public class Hello
 		gauche = gauche + droite;
 		}
 		
+		public static void addition(long[] gauche, long [] droite)
+		{
+		gauche[0] = gauche[0] + droite[0];
+		}
+		
 	public static void main (String [] args)
 	{
 
