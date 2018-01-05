@@ -28,6 +28,9 @@ public class Hello
 		System.out.println("metre ="+metre+", yard ="+yard);
 		
 	System.out.println("Kilo ="+kilo[0]+", Hecto ="+hecto[0]);
+	
+		addition (kilo[0],hecto[0]);
+		System.out.println("kilo ="+kilo[0]+", hecto ="+hecto[0]);
 
 	}
 
